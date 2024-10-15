@@ -13,13 +13,13 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link to="/about" className="text-white hover:text-yellow-300 transition">
-              Our recipes
+            <Link to="/our-recipes" className="text-white hover:text-yellow-300 transition">
+              Our Recipes
             </Link>
           </li>
           <li>
-            <Link to="/contact" className="text-white hover:text-yellow-300 transition">
-              Create recipe
+            <Link to="/create-recipe" className="text-white hover:text-yellow-300 transition">
+              Create Recipe
             </Link>
           </li>
         </ul>
